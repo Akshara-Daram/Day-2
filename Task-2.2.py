@@ -5,3 +5,4 @@ if string==reversedstring:
     print("It's a palindrome")
 else:
     print("It's not a palindrome")
+
